@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/quickmaffs-db/static/css/main.4cf25cd4.chunk.css",
+    "main.js": "/quickmaffs-db/static/js/main.5e7bf20c.chunk.js",
+    "main.js.map": "/quickmaffs-db/static/js/main.5e7bf20c.chunk.js.map",
+    "runtime-main.js": "/quickmaffs-db/static/js/runtime-main.d1c57f3e.js",
+    "runtime-main.js.map": "/quickmaffs-db/static/js/runtime-main.d1c57f3e.js.map",
+    "static/js/2.65dc67b5.chunk.js": "/quickmaffs-db/static/js/2.65dc67b5.chunk.js",
+    "static/js/2.65dc67b5.chunk.js.map": "/quickmaffs-db/static/js/2.65dc67b5.chunk.js.map",
+    "index.html": "/quickmaffs-db/index.html",
+    "precache-manifest.f08a3a333ea1c6d2315e7f8b4ca7cd5e.js": "/quickmaffs-db/precache-manifest.f08a3a333ea1c6d2315e7f8b4ca7cd5e.js",
+    "service-worker.js": "/quickmaffs-db/service-worker.js",
+    "static/css/main.4cf25cd4.chunk.css.map": "/quickmaffs-db/static/css/main.4cf25cd4.chunk.css.map",
+    "static/js/2.65dc67b5.chunk.js.LICENSE.txt": "/quickmaffs-db/static/js/2.65dc67b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1c57f3e.js",
+    "static/js/2.65dc67b5.chunk.js",
+    "static/css/main.4cf25cd4.chunk.css",
+    "static/js/main.5e7bf20c.chunk.js"
+  ]
+}
